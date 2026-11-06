@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Amirreza Sedghi
+# 👋 Hi, I'm Amir Sedghi
 
 ### 🤖 Aspiring AI & Machine Learning Developer
 
